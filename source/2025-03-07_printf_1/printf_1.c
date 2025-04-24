@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(void)
+{
+	printf("Hello World!\n");
+	printf("æ»≥Á«œººø‰");
+
+	return 0;
+}
